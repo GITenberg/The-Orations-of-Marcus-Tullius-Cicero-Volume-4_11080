@@ -1,5 +1,5 @@
 _repo: The-Orations-of-Marcus-Tullius-Cicero-Volume-4_11080
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Yonge, Charles Duke
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3581'
     url: http://www.gutenberg.org/2009/agents/3581
     wikipedia: http://en.wikipedia.org/wiki/Charles_Duke_Yonge
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cicero, Marcus Tullius
@@ -20,6 +23,8 @@ creator:
 description: 'Contains: The fourteen orations against Marcus Antonius (called Philippics);
   to which are appended the Treatise on rhetorical invention; the Orator; Topics;
   On rhetorical partitions, etc.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11080#The-Orations-of-Marcus-Tullius-Cicero-Volume-4
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
